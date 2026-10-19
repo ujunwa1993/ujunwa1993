@@ -18,8 +18,10 @@ let's connect on [Linkedin](https://www.linkedin.com/public-profile/settings/?li
 My Arsenal:
 Microsoft Excel
 SQL
+Tableau
+Python
 Power BI
-Pablo
+
 
 
 
